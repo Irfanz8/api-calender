@@ -1,5 +1,7 @@
 import calender.sql to your mysql database
 
+rename env.example to .env
+
 and 
 
 # 🚀 Getting started with Strapi
